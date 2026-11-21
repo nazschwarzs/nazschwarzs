@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <h1>Hi there, I'm Naz 👋</h1>
   <p><strong>IT Student @ UTeM | Full-Stack Developer | PC Hardware Enthusiast</strong></p>
 </div>
@@ -76,3 +76,5 @@ I'm an Information Technology undergraduate at **Universiti Teknikal Malaysia Me
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </div>
+
+-->
