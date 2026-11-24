@@ -1,80 +1,114 @@
-<!-- <div align="center">
-  <h1>Hi there, I'm Naz 👋</h1>
-  <p><strong>IT Student @ UTeM | Full-Stack Developer | PC Hardware Enthusiast</strong></p>
-</div>
-
----
-
-### 👨‍💻 About Me
-I'm an Information Technology undergraduate at **Universiti Teknikal Malaysia Melaka (UTeM)** passionate about building practical software solutions, automating workflows, and tinkering with PC hardware. Whether it's developing AI-powered web systems or troubleshooting hardware bottlenecks, I enjoy turning complex problems into clean, functional setups.
-
-- 🔭 **Currently working on:** **CampusFix** — an AI-powered visual fault detection and maintenance scheduling system for university residential colleges.
-- 💼 **Past Experience:** IT Technical Support & Systems Deployment Intern at **Panasonic** (Shah Alam).
-- 🌱 **Exploring:** Computer Vision (YOLOv8), scalable backend architectures, and system optimization.
-- ⚡ **Off the clock:** Custom PC building, sim racing, and DIY projects.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frameworks & Libraries**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Databases, DevOps & Tools**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-- **[CampusFix](https://github.com/yourusername/campusfix)** *(In Progress)*
-  - AI-driven campus facility maintenance and automated task dispatch web application.
-  - **Stack:** FastAPI, React 18, TypeScript, MySQL, YOLOv8, Telegram Bot API.
-- **[Track-N-Spend](https://github.com/yourusername/track-n-spend)**
-  - Console-based personal finance and budgeting management system tailored for university students.
-  - **Stack:** C++, MySQL.
-- **[IDBS Prototype — He & She Coffee](https://github.com/yourusername/idbs-prototype)**
-  - Strategic Information Systems Planning (SISP) and Intelligent Dashboard Business System prototype.
-  - **Stack:** Web / Analytics Dashboard.
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · nazschwarzs</sub></p>
+<h1>Nazs</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>A student</p>
+<p><strong>● Building and sharing work in public</strong></p>
+
+<p><a href="https://github.com/nazschwarzs">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/81726752?u=dd93f42f5c5c406061c18889c9af251bcb449f98&amp;v=4" width="180" alt="Nazs GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
----
+<h2>What teams can evaluate quickly</h2>
 
-### 📫 Connect With Me
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · HTML · CSS · JavaScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>5 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>51 contributions · 13 active days</p></td>
+</tr>
+</table>
 
-<div align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</div>
+<p><sub>A student</sub></p>
 
--->
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>5</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>51</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=nazschwarzs&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81726752%3Fu%3Ddd93f42f5c5c406061c18889c9af251bcb449f98%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=nazschwarzs&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81726752%3Fu%3Ddd93f42f5c5c406061c18889c9af251bcb449f98%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Nazs GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=nazschwarzs&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81726752%3Fu%3Ddd93f42f5c5c406061c18889c9af251bcb449f98%26v%3D4&repos=nazschwarzs%2Fnazschwarzs%2Cnazschwarzs%2Fnaz-portfolio%2Cnazschwarzs%2FFYP2024%2Cnazschwarzs%2FObject-Oriented-Programming&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=nazschwarzs&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81726752%3Fu%3Ddd93f42f5c5c406061c18889c9af251bcb449f98%26v%3D4&repos=nazschwarzs%2Fnazschwarzs%2Cnazschwarzs%2Fnaz-portfolio%2Cnazschwarzs%2FFYP2024%2Cnazschwarzs%2FObject-Oriented-Programming&v=recruiter-projects-1&mode=dark" width="100%" alt="Nazs selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/nazschwarzs/nazschwarzs">nazschwarzs</a></h3>
+<p>A selected public project.</p>
+<p><sub>⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/nazschwarzs/nazschwarzs">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/nazschwarzs/naz-portfolio">naz-portfolio</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/nazschwarzs/FYP2024">FYP2024</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/nazschwarzs/Object-Oriented-Programming">Object-Oriented-Programming</a></h3><p>A selected public project.</p><p><sub>Java · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=nazschwarzs&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81726752%3Fu%3Ddd93f42f5c5c406061c18889c9af251bcb449f98%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=nazschwarzs&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81726752%3Fu%3Ddd93f42f5c5c406061c18889c9af251bcb449f98%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Nazs technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>HTML</strong><br /><sub>58% of public code</sub></td>
+<td width="25%" align="center"><strong>CSS</strong><br /><sub>29% of public code</sub></td>
+<td width="25%" align="center"><strong>JavaScript</strong><br /><sub>7% of public code</sub></td>
+<td width="25%" align="center"><strong>Java</strong><br /><sub>7% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=nazschwarzs&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81726752%3Fu%3Ddd93f42f5c5c406061c18889c9af251bcb449f98%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=nazschwarzs&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81726752%3Fu%3Ddd93f42f5c5c406061c18889c9af251bcb449f98%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Nazs contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/nazschwarzs">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Nazs · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
